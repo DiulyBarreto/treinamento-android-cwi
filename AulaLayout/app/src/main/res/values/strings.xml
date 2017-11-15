@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AulaLayout</string>
+    <string name="tela_inicial">TELA INICIAL</string>
+    <string name="loja_virtual">LOJA VIRTUAL</string>
+    <string name="blog">BLOG</string>
+    <string name="cartoes_renner">CARTÕES RENNER</string>
+    <string name="mais_opcoes">MAIS</string>
+    <string name="prosseguir_login">prosseguir</string>
+    <string name="duvidas">dúvidas</string>
+</resources>
