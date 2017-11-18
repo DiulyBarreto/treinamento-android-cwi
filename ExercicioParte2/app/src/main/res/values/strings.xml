@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExercicioParte2</string>
+    <string name="spacetrooper">Spacetrooper</string>
+    <string name="confirm_exclude_trooper">Tem certeza que deseja excluir este trooper?</string>
+    <string name="title_exclude_trooper">Excluir trooper</string>
+    <string name="ok">Sim</string>
+    <string name="nao">Não</string>
+    <string name="trooper_excluido">Trooper excluído</string>
+    <string name="favoritar">Favoritar</string>
+    <string name="favoritar_trooper">Favoritar Trooper</string>
+</resources>
